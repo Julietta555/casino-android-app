@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Casino</string>
+    <string name="play">Играть</string>
+    <string name="settings">Настройки</string>
+    <string name="casino">Казино</string>
+    <string name="addname">Введите имя</string>
+    <string name="port">Порт</string>
+    <string name="ip">IP-адрес</string>
+    <string name="Сохранить">save</string>
+    <string name="main">На главную</string>
+</resources>
